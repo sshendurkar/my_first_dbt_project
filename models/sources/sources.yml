@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: source_details
+    catalog: learn_dbt
+    schema: schema_dbt
+
+    tables:
+      - name: dummy_100
