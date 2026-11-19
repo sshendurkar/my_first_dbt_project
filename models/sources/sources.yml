@@ -7,3 +7,4 @@ sources:
 
     tables:
       - name: dummy_100
+      - name: incremental_customers
